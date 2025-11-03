@@ -1,0 +1,15 @@
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/bin/Debug/net9.0/Week6_OOP
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/bin/Debug/net9.0/Week6_OOP.deps.json
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/bin/Debug/net9.0/Week6_OOP.runtimeconfig.json
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/bin/Debug/net9.0/Week6_OOP.dll
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/bin/Debug/net9.0/Week6_OOP.pdb
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.AssemblyInfoInputs.cache
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.AssemblyInfo.cs
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.csproj.CoreCompileInputs.cache
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.sourcelink.json
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.dll
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/refint/Week6_OOP.dll
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.pdb
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/Week6_OOP.genruntimeconfig.cache
+/Users/rene/Documents/Rene's Workspace/Game Development/GameProgramming1/Week6_OOP/Week6_OOP/obj/Debug/net9.0/ref/Week6_OOP.dll
